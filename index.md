@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+Graduate Admission Prediction
+[GitHub](https://danielfurlan.github.io/aisite/Graduate%20Admission.html)
 
 # Graduate Admission Prediction [Link](https://danielfurlan.github.io/aisite/Graduate%20Admission.html)
 ## Pulsar Star Prediction [Link](https://danielfurlan.github.io/aisite/Graduate%20Admission.html)
